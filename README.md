@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="center">Hi there,  I'm Roma 👋</h2>
 <h3 align="center">Golang developer from Nizhny Novgorod</h3>
 
