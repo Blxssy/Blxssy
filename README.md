@@ -12,7 +12,7 @@
 
 ### About me
 
-- 🌱 I’m currently learning Golang, deb development
+- 🌱 I’m currently learning Golang, web development
 - 📫 Reach me by [Telegram](https://t.me/xBlxsyy), [Email](mailto:roma.asav@gmail.com)
 
 <h3 align="center">Languages and tools:</h3>
